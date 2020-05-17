@@ -4,3 +4,7 @@
 
 # Xcode-related
 **/xcuserdata/
+
+firebase.json
+.firebase
+.firebaserc
